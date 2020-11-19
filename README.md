@@ -1,4 +1,4 @@
-# Python Crash Course
+# Python Crash Course by Eric Matthes
 
 ## A Hands on Project based Introduction to Programming
 
